@@ -1,0 +1,79 @@
+{
+  "name": "pos",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fullcalendar/core": "^6.1.9",
+    "@fullcalendar/daygrid": "^6.1.9",
+    "@fullcalendar/list": "^6.1.9",
+    "@fullcalendar/timegrid": "^6.1.9",
+    "@mui/icons-material": "^5.14.18",
+    "@mui/lab": "^5.0.0-alpha.167",
+    "@mui/material": "^5.14.18",
+    "@mui/system": "^5.15.4",
+    "@mui/x-data-grid": "^6.18.3",
+    "@mui/x-date-pickers": "^6.19.6",
+    "@nivo/bar": "^0.84.0",
+    "@nivo/core": "^0.84.0",
+    "@nivo/geo": "^0.84.0",
+    "@nivo/line": "^0.84.0",
+    "@nivo/pie": "^0.84.0",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "browserify-zlib": "^0.2.0",
+    "crypto-browserify": "^3.12.0",
+    "date-fns": "^3.2.0",
+    "dayjs": "^1.11.10",
+    "escpos": "^3.0.0-alpha.6",
+    "file-saver": "^2.0.5",
+    "formik": "^2.4.5",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.8.2",
+    "path-browserify": "^1.0.1",
+    "print-js": "^1.6.0",
+    "qrcode.react": "^3.1.0",
+    "querystring-es3": "^0.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-draggable": "^4.4.6",
+    "react-print": "^1.3.1",
+    "react-pro-sidebar": "^0.7.1",
+    "react-router-dom": "^6.22.2",
+    "react-scripts": "5.0.1",
+    "react-simple-keyboard": "^3.7.119",
+    "react-to-print": "^2.14.15",
+    "stream-browserify": "^3.0.0",
+    "url": "^0.11.3",
+    "util": "^0.12.5",
+    "uuid": "^9.0.1",
+    "web-vitals": "^2.1.4",
+    "yup": "^1.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
